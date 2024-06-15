@@ -28,25 +28,6 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 4. Faça push para a branch (`git push origin feature/sua-feature`).
 5. Abra um Pull Request.
 
-# Projeto: Estrelas da Stela
-
-Como é a visão da Stela ao navegar pelo universo criado para ela.
-
-## Sobre o Projeto
-
-Esse código é um programa JavaScript que cria uma animação de partículas usando o elemento canvas do HTML5. A animação consiste em partículas brilhantes que se movem em direção ao centro do canvas, criando um efeito de convergência das partículas. Dando a impressão que "Stela" está navegando pelo cosmos.
-
-## Prévia
-
-<img src="https://github.com/unfav-ri/assets/blob/master/ECO-ESTUDO/eco-estudo.gif">
-
-## Tecnologias Utilizadas
-
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Canvas**
-
 ## Como Executar o Projeto Localmente
 
 Para visualizar a prévia do projeto localmente, siga os passos abaixo:
