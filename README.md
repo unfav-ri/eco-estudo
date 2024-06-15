@@ -18,16 +18,6 @@ Este repositório contém o código-fonte e a documentação do site No Eco Estu
 - **Ruby**
 - **Font Awesome**
 
-## Como Contribuir
-
-Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
-
-1. Faça um fork deste repositório.
-2. Crie uma nova branch (`git checkout -b feature/sua-feature`).
-3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`).
-4. Faça push para a branch (`git push origin feature/sua-feature`).
-5. Abra um Pull Request.
-
 ## Como Executar o Projeto Localmente
 
 Para visualizar a prévia do projeto localmente, siga os passos abaixo:
