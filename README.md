@@ -9,6 +9,10 @@ Este repositório contém o código-fonte e a documentação do site No Eco Estu
 - **Recolhimento e Reciclagem de Óleo**: Facilitar a coleta e reciclagem de óleo usado.
 - **Aquecimento Solar de Água**: Promover a instalação de sistemas de aquecimento de água utilizando energia solar.
 
+## Prévia
+
+<img src="https://github.com/unfav-ri/assets/blob/master/ESTRELAS-DA-STELA/estrelas-da-stela.gif">
+
 ## Tecnologias Utilizadas
 
 - **HTML**
