@@ -11,7 +11,7 @@ Este repositório contém o código-fonte e a documentação do site No Eco Estu
 
 ## Prévia
 
-<img src="https://github.com/unfav-ri/assets/blob/master/ESTRELAS-DA-STELA/estrelas-da-stela.gif">
+<img src="https://github.com/unfav-ri/assets/blob/master/ECO-ESTUDO/eco-estudo.gif">
 
 ## Tecnologias Utilizadas
 
